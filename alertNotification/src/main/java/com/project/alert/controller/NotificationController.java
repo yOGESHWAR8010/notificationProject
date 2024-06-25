@@ -13,6 +13,8 @@ import com.project.alert.service.NotificationService;
 @RestController
 @RequestMapping("/api/notifications")
 public class NotificationController {
+	
+	
 
 	private final NotificationService notificationService;
 
